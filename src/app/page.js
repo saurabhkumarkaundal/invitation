@@ -70,7 +70,7 @@ export default function WeddingInvite() {
               className="text-base sm:text-lg text-gray-700 mb-2"
             >
               Celebrate with{" "}
-              <span className="font-semibold">Archana & Saurabh</span> across
+              <span className="font-semibold">Saurabh & Archana</span> across
               three beautiful days:
             </motion.p>
 
