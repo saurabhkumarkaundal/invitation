@@ -1,7 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    devIndicators: false,
-    output:"export"
-};
+    output: 'export',
+    images: {
+      unoptimized: true 
+    },
+    basePath: '/invitation', 
+    assetPrefix: '/invitation',
+  };
 
 export default nextConfig;
