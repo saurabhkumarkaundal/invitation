@@ -42,7 +42,7 @@ export default function WeddingInvite() {
   return (
     <div
       className="min-h-screen bg-cover bg-center flex flex-col items-center justify-center p-3 sm:p-4"
-      style={{ backgroundImage: "url('/image.png')" }}
+      style={{ backgroundImage: "url('./image.png')" }}
     >
       {showConfetti && <Confetti width={width} height={height} recycle={false} />}
 
