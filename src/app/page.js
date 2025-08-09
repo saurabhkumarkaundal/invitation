@@ -126,7 +126,7 @@ export default function WeddingInvite() {
       className="mt-1 sm:mt-0 text-pink-600 border-pink-400 hover:bg-pink-50"
     >
       <a
-        href="https://maps.app.goo.gl/AWwH9R5gzWE2CkZG9"
+        href="https://maps.app.goo.gl/sofHmiwXwtX8r7aP9"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center gap-2"
