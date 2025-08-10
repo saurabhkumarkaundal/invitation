@@ -118,7 +118,7 @@ export default function WeddingInvite() {
   </span>
   <div className="flex flex-col sm:flex-row sm:items-center sm:gap-4">
     <div className="font-medium" style={{fontSize:"13px"}}>
-      at (Vill. Garla Sarkar, Teh. Palampur Distt Kangra, H.P)
+      at (Vill. Garla Sarkari, Teh. Palampur Distt Kangra, H.P)
     </div>
     <Button
       asChild
